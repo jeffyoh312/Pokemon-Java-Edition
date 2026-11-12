@@ -1,0 +1,17 @@
+# Compiled Java classes
+*.class
+
+# Local gameplay data
+scores.txt
+
+# IDE/project-local settings
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# OS clutter
+.DS_Store
+Thumbs.db
