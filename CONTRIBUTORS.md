@@ -13,4 +13,6 @@ This game was developed as a group Java project. Thanks to everyone who helped b
 | Aman Bin Basheer | [@Nero2305](https://github.com/Nero2305) | contributor |
 | Leong Shan Jie | [@Hariish05](https://github.com/Hariish05) | contributor |
 
+This was built in 2025 for PRG1203 Object-Oriented Programming Fundementals 
+
 If the team wants to recognize specific responsibilities, update the final column with confirmed work, such as battle system, Pokémon classes, testing, or documentation.
